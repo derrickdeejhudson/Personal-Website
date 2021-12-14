@@ -215,7 +215,7 @@ body.is-preload *:after {
 /* Type */
 
 body {
-  background-color: #935d8c;
+  background-color: #f7cac9;
   color: rgba(255, 255, 255, 0.65);
 }
 
@@ -2275,7 +2275,7 @@ select {
 
 select option {
   color: #ffffff;
-  background: #935d8c;
+  background: #f7cac9;
 }
 
 input[type="checkbox"] + label,
@@ -2293,7 +2293,7 @@ input[type="checkbox"]:checked + label:before,
 input[type="radio"]:checked + label:before {
   background-color: #ffffff;
   border-color: #ffffff;
-  color: #935d8c;
+  color: #f7cac9;
 }
 
 input[type="checkbox"]:focus + label:before,
