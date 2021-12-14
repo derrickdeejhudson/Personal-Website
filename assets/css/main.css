@@ -188,7 +188,7 @@ html {
 }
 
 body {
-  background-color: #935d8c;
+  background-color: #f7cac9;
   background-image: url("images/overlay.png"),
     -moz-linear-gradient(45deg, #92a8d1 15%, #f7cac9 85%);
   background-image: url("images/overlay.png"),
@@ -3651,10 +3651,10 @@ body.is-preload #header.alt .logo {
 
 #main header.major h2:after {
   background-color: #dddddd;
-  background-image: -moz-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-  background-image: -webkit-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-  background-image: -ms-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-  background-image: linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
+  background-image: -moz-linear-gradient(90deg, #92a8d1, #f7cac9, #8cc9f0);
+  background-image: -webkit-linear-gradient(90deg, #92a8d1, #f7cac9, #8cc9f0);
+  background-image: -ms-linear-gradient(90deg, #92a8d1, #f7cac9, #8cc9f0);
+  background-image: linear-gradient(90deg, #92a8d1, #f7cac9, #8cc9f0);
 }
 
 #main table tbody tr {
